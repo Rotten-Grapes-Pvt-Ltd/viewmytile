@@ -13,10 +13,8 @@ It is assuming that you have a titiler server running at `http://127.0.0.1:8000`
 - Toggle rescaling of tile values
 - Display tile information including count and nodata value
 
-<video  controls>
+Check video demo [here](https://www.loom.com/share/57b70906cc9d4fe9904aad44d0e319ef?sid=a44ca4e2-5c1b-48c3-b0d5-8c20f680dd5f)
 
-  <source src="demo.mp4" type="video/mp4">
-</video>
 
 ## Installation
 
